@@ -59,3 +59,11 @@ It allows users to upload legal documents (PDFs) and ask natural-language questi
 2. Install dependencies:
 ```bash
 pip install llama-index llama-index-embeddings-huggingface llama-index-llms-huggingface transformers accelerate sentence-transformers pypdf bitsandbytes gradio
+
+---
+
+## 👤 Author
+**Arjun**
+*Technical Product Manager*
+
+---
